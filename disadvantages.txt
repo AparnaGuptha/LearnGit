@@ -1,0 +1,18 @@
+3.2 DISADVANTAGE OF EXISITING SYSTEM 
+
+a) Because we use K-means algorithm: 
+I. Difficult to predict K-Value.
+II. With global cluster, it didn't work well. 
+III. Different initial partitions can result in different final clusters.
+IV. It does not work well with clusters (in the original data) of Different size and Different density.
+b) Because we use decision tree algorithm: 
+I.A small change in the data can cause a large change in the structure of the decision tree causing instability. 
+II. For a Decision tree sometimes calculation can go far more complex compared to other algorithms.
+ III. Decision tree often involves higher time to train the model.
+ IV. Decision tree training is relatively expensive as the complexity and time has taken are more.
+V. The Decision Tree algorithm is inadequate for applying regression and predicting continuous values.
+
+
+
+
+
